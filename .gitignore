@@ -1,3 +1,7 @@
+# air configuration file
 .air.toml
 
+# air binary
 tmp
+
+Makefile
